@@ -29,18 +29,18 @@
         "remote":       "rising",
         "repository":   "device_qcom_sepolicy_vndr",
         "target_path":  "device/qcom/sepolicy_vndr/sm8450",
-        "revision":     "fifteen"
+        "revision":     "fifteen-Pong"
     }
     {
         "remote":       "rising",
         "repository":   "hardware_qcom_audio-ar",
         "target_path":  "hardware/qcom-caf/sm8450/audio/primary-hal",
-        "revision":     "fifteen"
+        "revision":     "fifteen-Pong"
     }
     {
         "remote":       "rising",
         "repository":   "vendor_qcom_opensource_arpal-lx",
         "target_path":  "hardware/qcom-caf/sm8450/audio/pal",
-        "revision":     "fifteen"
+        "revision":     "fifteen-Pong"
     }
 ]
