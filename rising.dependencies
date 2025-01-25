@@ -1,6 +1,6 @@
 [
     {
-        "remote": "devices",
+        "remote": "devices-gitlab",
         "repository": "vendor_nothing_Pong",
         "target_path": "vendor/nothing/Pong",
         "revision": "fifteen",
