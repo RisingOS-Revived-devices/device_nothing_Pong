@@ -32,7 +32,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     SystemDevice=Pong \
     SystemName=Pong \
     RisingChipset="taro" \
-    RisingMaintainer="Samrth"
+    RisingMaintainer="samrth012"
+
+RISING_MAINTAINER := samrth012
 
 #Flags
 PRODUCT_NO_CAMERA := false
