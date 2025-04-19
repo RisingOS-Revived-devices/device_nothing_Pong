@@ -17,7 +17,7 @@
          "remote": "devices",
          "repository": "hardware_nothing",
          "target_path": "hardware/nothing",
-         "revision": "15",
+         "revision": "15"
      },
      {
          "remote": "rising",
