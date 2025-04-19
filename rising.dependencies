@@ -24,5 +24,11 @@
          "repository": "android_packages_apps_ParanoidGlyph",
          "target_path": "packages/apps/ParanoidGlyphPhone2",
          "revision": "fifteen"
+     },
+     {
+         "remote": "rising",
+         "repository": "android_packages_apps_GlyphAdapter",
+         "target_path": "packages/apps/GlyphAdapter",
+         "revision": "fifteen"
      }
 ]
